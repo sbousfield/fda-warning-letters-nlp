@@ -157,9 +157,10 @@ This approach could be adapted for:
 - Respected robots.txt (note: actual implementation used faster scraping - see limitations)
 - Data used for educational/research purposes only
 
-## License
+## Note
 
-MIT License
+This project was completed as part of my Master of Data Science program (2023).  
+README documentation was drafted with AI assistance.
 
 ---
 
